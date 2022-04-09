@@ -5,6 +5,6 @@
   },
   "android": {
     "url": "http://example.com/myAppUpdate/android",
-    "enabled": true
+    "enabled": false
   }
 }
